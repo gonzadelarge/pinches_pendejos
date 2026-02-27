@@ -1,0 +1,123 @@
+{
+  "artist": {
+    "name": "Pinches Madafacas",
+    "tagline": "Arte que no pide permiso.",
+    "taglineSub": "Obras únicas con carácter propio.",
+    "bio": [
+      "Artista plástico con una visión transgresora del color y la forma. Cada obra es un universo en sí mismo, construido con capas de emoción, técnica y esa chispa inconfundible que hace que el arte valga la pena.",
+      "Disponible para exposiciones, colecciones privadas y colaboraciones. Si algo llama tu atención, no lo pienses demasiado."
+    ],
+    "avatar": "/images/artist-avatar.jpg",
+    "seoName": "Pinches Madafacas",
+    "seoKeywords": "artista plástico, pintura contemporánea, obras de arte originales"
+  },
+  "contact": {
+    "email": "hola@example.com",
+    "phone": "+34 600 000 000",
+    "whatsapp": "+34600000000",
+    "instagram": "@pinchesmadafacas",
+    "instagramUrl": "https://instagram.com/pinchesmadafacas"
+  },
+  "formspree": {
+    "endpoint": "https://formspree.io/f/REPLACE_WITH_YOUR_FORM_ID"
+  },
+  "seo": {
+    "siteUrl": "https://example.com",
+    "ogImage": "/images/og-default.jpg",
+    "twitterHandle": "@pinchesmadafacas"
+  },
+  "artworks": [
+    {
+      "slug": "sin-titulo-01",
+      "title": "Sin título 01",
+      "technique": "Acrílico sobre lienzo",
+      "year": 2024,
+      "dimensions": "100 × 80 cm",
+      "image": "https://picsum.photos/seed/artwork1/800/1000",
+      "imageThumbnail": "https://picsum.photos/seed/artwork1/600/750",
+      "description": "Una explosión de color que interroga el vacío. La tela como campo de batalla.",
+      "featured": true
+    },
+    {
+      "slug": "sin-titulo-02",
+      "title": "Sin título 02",
+      "technique": "Óleo sobre tabla",
+      "year": 2024,
+      "dimensions": "60 × 60 cm",
+      "image": "https://picsum.photos/seed/artwork2/800/800",
+      "imageThumbnail": "https://picsum.photos/seed/artwork2/600/600",
+      "description": "La geometría como lenguaje emocional. Cada ángulo, una decisión.",
+      "featured": true
+    },
+    {
+      "slug": "sin-titulo-03",
+      "title": "Sin título 03",
+      "technique": "Técnica mixta",
+      "year": 2023,
+      "dimensions": "120 × 90 cm",
+      "image": "https://picsum.photos/seed/artwork3/800/600",
+      "imageThumbnail": "https://picsum.photos/seed/artwork3/600/450",
+      "description": "Caos controlado. Orden aparente.",
+      "featured": true
+    },
+    {
+      "slug": "sin-titulo-04",
+      "title": "Sin título 04",
+      "technique": "Acrílico sobre lienzo",
+      "year": 2023,
+      "dimensions": "80 × 100 cm",
+      "image": "https://picsum.photos/seed/artwork4/800/1000",
+      "imageThumbnail": "https://picsum.photos/seed/artwork4/600/750",
+      "description": "El gesto primario. La marca antes del pensamiento.",
+      "featured": true
+    },
+    {
+      "slug": "sin-titulo-05",
+      "title": "Sin título 05",
+      "technique": "Carboncillo y acrílico",
+      "year": 2023,
+      "dimensions": "70 × 50 cm",
+      "image": "https://picsum.photos/seed/artwork5/800/1143",
+      "imageThumbnail": "https://picsum.photos/seed/artwork5/600/857",
+      "description": "Líneas que no saben dónde terminan.",
+      "featured": true
+    },
+    {
+      "slug": "sin-titulo-06",
+      "title": "Sin título 06",
+      "technique": "Óleo sobre lienzo",
+      "year": 2022,
+      "dimensions": "150 × 100 cm",
+      "image": "https://picsum.photos/seed/artwork6/800/533",
+      "imageThumbnail": "https://picsum.photos/seed/artwork6/600/400",
+      "description": "Una escena sin nombre. Una historia sin final.",
+      "featured": true
+    },
+    {
+      "slug": "sin-titulo-07",
+      "title": "Sin título 07",
+      "technique": "Técnica mixta",
+      "year": 2022,
+      "dimensions": "90 × 70 cm",
+      "image": "https://picsum.photos/seed/artwork7/800/1000",
+      "imageThumbnail": "https://picsum.photos/seed/artwork7/600/750",
+      "description": "Textura como memoria.",
+      "featured": false
+    },
+    {
+      "slug": "sin-titulo-08",
+      "title": "Sin título 08",
+      "technique": "Acrílico sobre papel",
+      "year": 2022,
+      "dimensions": "50 × 70 cm",
+      "image": "https://picsum.photos/seed/artwork8/800/1143",
+      "imageThumbnail": "https://picsum.photos/seed/artwork8/600/857",
+      "description": "Lo frágil como material.",
+      "featured": false
+    }
+  ],
+  "nav": [
+    { "label": "Obras", "href": "#obras" },
+    { "label": "Sobre nosotros", "href": "#sobre-mi" }
+  ]
+}
