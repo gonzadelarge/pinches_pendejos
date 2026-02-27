@@ -1,22 +1,22 @@
 {
   "artist": {
-    "name": "Pinches Madafacas",
-    "tagline": "Arte que no pide permiso.",
-    "taglineSub": "Obras únicas con carácter propio.",
+    "name": "Pinches Pendejos",
+    "tagline": "Del barrio a la pared. De la pared al mundo.",
+    "taglineSub": "Colectivo de muralismo urbano.",
     "bio": [
-      "Artista plástico con una visión transgresora del color y la forma. Cada obra es un universo en sí mismo, construido con capas de emoción, técnica y esa chispa inconfundible que hace que el arte valga la pena.",
-      "Disponible para exposiciones, colecciones privadas y colaboraciones. Si algo llama tu atención, no lo pienses demasiado."
+      "Cuatro tíos de la calle que empezaron con latas robadas y noches sin dormir, y acabaron llenando fachadas de ciudad en ciudad. Lo que empezó como una firma en un muro se convirtió en un lenguaje que habla más alto que cualquier galería.",
+      "Sin manager, sin manifiesto, sin pedir permiso. Solo spray, brochas, andamios y las ganas de pintar grande. Somos Pinches Pendejos y llevamos años dejando huella donde nadie esperaba encontrarla."
     ],
     "avatar": "/images/artist-avatar.jpg",
-    "seoName": "Pinches Madafacas",
-    "seoKeywords": "artista plástico, pintura contemporánea, obras de arte originales"
+    "seoName": "Pinches Pendejos",
+    "seoKeywords": "pintura mural, muralismo urbano, arte callejero, colectivo artístico, graffiti artístico"
   },
   "contact": {
     "email": "hola@example.com",
     "phone": "+34 600 000 000",
     "whatsapp": "+34600000000",
-    "instagram": "@pinchesmadafacas",
-    "instagramUrl": "https://instagram.com/pinchesmadafacas"
+    "instagram": "@pinchespendejos",
+    "instagramUrl": "https://instagram.com/pinchespendejos"
   },
   "formspree": {
     "endpoint": "https://formspree.io/f/REPLACE_WITH_YOUR_FORM_ID"
@@ -24,7 +24,7 @@
   "seo": {
     "siteUrl": "https://example.com",
     "ogImage": "/images/og-default.jpg",
-    "twitterHandle": "@pinchesmadafacas"
+    "twitterHandle": "@pinchespendejos"
   },
   "artworks": [
     {

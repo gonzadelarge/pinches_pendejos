@@ -4,11 +4,11 @@
   /* ── Colors ─────────────────────────────── */
   --color-ink:          #0a0a0a;   /* bg principal */
   --color-cream:        #f5f0e8;   /* texto principal */
-  --color-gold:         #c47a52;   /* terracota */
-  --color-gold-light:   #dfa882;   /* terracota claro */
-  --color-gold-muted:   #8f5535;   /* terracota oscuro */
-  --color-border:       #222222;   /* bordes */
-  --color-muted:        #6b6b6b;   /* texto secundario */
+  --color-gold:         #f04010;   /* spray-paint orange */
+  --color-gold-light:   #ff6640;   /* naranja hover */
+  --color-gold-muted:   #b82e00;   /* naranja oscuro */
+  --color-border:       #1e1e1e;   /* bordes */
+  --color-muted:        #747474;   /* texto secundario */
   --color-card:         #111111;   /* fondo tarjeta */
   --color-card-hover:   #161616;
 
@@ -37,7 +37,7 @@ body {
 ::-webkit-scrollbar { width: 6px; }
 ::-webkit-scrollbar-track { background: #0a0a0a; }
 ::-webkit-scrollbar-thumb { background: #2a2a2a; border-radius: 3px; }
-::-webkit-scrollbar-thumb:hover { background: #c9a84c; }
+::-webkit-scrollbar-thumb:hover { background: #f04010; }
 
 /* ── Selection ──────────────────────────────── */
 ::selection { background: #c9a84c33; color: #f5f0e8; }

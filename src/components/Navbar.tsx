@@ -34,13 +34,13 @@ export default function Navbar() {
         {/* Desktop nav */}
         <nav className="hidden md:flex items-center gap-8">
           {site.nav.map((item) => (
-            <a
+            <Link
               key={item.href}
-              href={item.href}
+              href={`/${item.href}`}
               className="text-xs tracking-[0.25em] uppercase text-muted hover:text-gold transition-colors duration-300"
             >
               {item.label}
-            </a>
+            </Link>
           ))}
           <Link
             href="/contacto"
@@ -82,14 +82,14 @@ export default function Navbar() {
       >
         <div className="px-6 py-6 flex flex-col gap-5">
           {site.nav.map((item) => (
-            <a
+            <Link
               key={item.href}
-              href={item.href}
+              href={`/${item.href}`}
               className="text-xs tracking-[0.25em] uppercase text-muted hover:text-gold transition-colors"
               onClick={() => setMenuOpen(false)}
             >
               {item.label}
-            </a>
+            </Link>
           ))}
           <Link
             href="/contacto"

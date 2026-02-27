@@ -6,10 +6,10 @@ export default function Gallery() {
   const artworks = getFeaturedArtworks();
 
   return (
-    <section id="obras" className="py-24 px-6">
+    <section id="obras" className="py-12 md:py-20 px-6">
       <div className="max-w-6xl mx-auto">
         {/* Header */}
-        <AnimatedSection className="text-center mb-16">
+        <AnimatedSection className="text-center mb-8 md:mb-14">
           <h2 className="font-serif text-3xl sm:text-4xl font-light text-cream tracking-wide">
             Obras
           </h2>
